@@ -63,5 +63,4 @@ typings/
 node_modules
 .DS_Store
 .env
-txt.txt
-out.txt
+
